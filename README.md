@@ -1,5 +1,17 @@
-# Zeitgeist
-## Summary
+# Zeitgeist <!-- omit from toc -->
+
+### Contents <!-- omit from toc -->
+- [Summary](#summary)
+- [Features](#features)
+  - [Lightning Fast Navigation](#lightning-fast-navigation)
+  - [Users and Permissions](#users-and-permissions)
+  - [Structure and Custom Folders](#structure-and-custom-folders)
+  - [Hidden Information](#hidden-information)
+  - [Links](#links)
+  - [Directed Sharing](#directed-sharing)
+  - [Timelines](#timelines)
+
+## Summary 
 This project is a WIP.
 
 The current vision for **Zeitgeist** is for it to be a collaborative worldbuilding and note-taking tool, primarily for players and GMs _(gamemasters)_ of TTRPGs _(tabletop role playing games)_ to efficiently contribute to a collection of organised information and notes. GMs can also use this tool to inform their players in a controlled and efficient way so as to limit their knowledge on the setting to keep the secrets hidden until a dramatic reveal.
